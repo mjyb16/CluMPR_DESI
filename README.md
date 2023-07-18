@@ -1,7 +1,7 @@
 # CluMPR_DESI
 Python implementation of CluMPR galaxy cluster-finding algorithm, optimized for DESI Legacy Survey (photometric redshifts + stellar masses) and Cori computer (NERSC). As a bonus, I have included a modified version of CluMPR which finds widely-separated gravitationally lensed quasars.
 
-### Paper decribing the algorithms and cluster+lensed quasar catalogs: The CluMPR Galaxy Cluster-Finding Algorithm and DESI Legacy Survey Galaxy Cluster catalogue (M. J. Yantovski-Barth et al.)
+#### Paper decribing the algorithms and cluster+lensed quasar catalogs: The CluMPR Galaxy Cluster-Finding Algorithm and DESI Legacy Survey Galaxy Cluster catalogue (M. J. Yantovski-Barth et al.)
 
 # Directory structure:
 
