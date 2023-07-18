@@ -3,7 +3,7 @@ Python implementation of CluMPR galaxy cluster-finding algorithm, optimized for 
 
 #### Paper decribing the algorithms and cluster+lensed quasar catalogs: The CluMPR Galaxy Cluster-Finding Algorithm and DESI Legacy Survey Galaxy Cluster catalogue (M. J. Yantovski-Barth et al.)
 
-# Directory structure:
+## Directory structure:
 
 Backgrounds: contains code for calculating mass and galaxy count backgrounds (see Appendix A in paper above).
 
